@@ -1,0 +1,3 @@
+- React Server-Side Rendering (SSR) with Vite
+- Integration with React Router DOM for routing
+- Integration with Redux for state management
